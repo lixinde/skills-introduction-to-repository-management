@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @lixinde
+/src/backend/database.py      @lixinde
+/src/backend/routers/auth.py  @lixinde
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @lixinde
